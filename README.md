@@ -9,7 +9,5 @@ prepwithRF.ipynb - Random Forest
 
 prepwithSVM.ipynb - Support Vector Machine
 
-Check out the Report here
-
-[Report](https://endeavored.github.io/cs4641/)
+Check out the [Report](https://endeavored.github.io/cs4641/)
 
