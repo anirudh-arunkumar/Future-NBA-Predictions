@@ -1,10 +1,15 @@
-# gt_cs_4641_fall_2024_24
+# Future NBA Game Predictions through Feature Analysis and Engineering
 Group 24 Project Repository for Georgia Tech's CS 4641, Fall 2024
 
 game.csv - CSV dataset of NBA games
 
-prepwithLR.ipynb - PCA filtering and Logistic Reggression applied
+prepwithLR.ipynb - PCA filtering and Logistic Regression applied
 
 prepwithRF.ipynb - Random Forest
 
 prepwithSVM.ipynb - Support Vector Machine
+
+Check out the Report here
+
+[Report](https://endeavored.github.io/cs4641/)
+
